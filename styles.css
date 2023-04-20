@@ -1,0 +1,59 @@
+
+footer {
+    padding: 10pt;
+}
+
+main {
+    padding-top: 70px;
+}
+
+.bg-blue {
+    background: linear-gradient(to top, #87CEFA, transparent);
+    width: 100%
+    position: relative;
+}
+
+.bg-blue-to-yellow {
+    background: linear-gradient(to top, #87CEFA, #FFD700);
+    width: 100%
+    position: relative;
+}
+
+.bg-yellow {
+    background: linear-gradient(to top, #FFD700, transparent);
+    width: 100%
+    position: relative;
+}
+
+.huge-literal {
+    font-weight: 900;
+    font-size: 200px;
+    width: 20%;
+    display: inline-block;
+}
+
+.text-alignment-leading {
+    text-align: left;
+}
+
+.text-alignment-trailing {
+    text-align: right;
+}
+
+.text-alignment-center {
+    text-align: center;
+}
+
+.color-blue {
+    color: #87CEFF;
+}
+
+.color-yellow {
+    color: #F9D700;
+}
+
+.step-description {
+    width: 76%;
+    display: inline-block;
+}
+
